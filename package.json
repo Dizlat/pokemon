@@ -1,7 +1,7 @@
 {
   "name": "pokemon",
   "version": "0.1.0",
-  "homepage": "https://dizlat.github.io/pokemon/react",
+  "homepage": "https://Dizlat.github.io/pokemon-react-20",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
