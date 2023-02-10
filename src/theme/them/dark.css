@@ -1,0 +1,7 @@
+.app.dark {
+
+  --background-color: black;
+  --text-color: white;
+  --button-back: red;
+  --button-text: white;
+}
